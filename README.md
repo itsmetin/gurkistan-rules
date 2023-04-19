@@ -56,7 +56,7 @@ Um ein Servermitglied zu melden sind Beweise in Beschaffenheit von Screenshots, 
 
 ### § 6.1 Gültigkeit der Regeln
 
-Mit Benutzung dieses Discord-Servers stimmst du automatischen den Regeln zu und akzeptierst ebendiese. Die Regeln gelten serverweit, dienen lediglich zur Erweiterung der allemal bestehenden Discord-Guidelines und Terms of Dienst. Des zusätzlichen können sämtliche Regeln zu jedem beliebigen Zeitpunkt, ohne Vorankündigung, durch @LordLamy oder seine Discord-Moderatoren verändert werden. Unwissenheit schützt nicht vor Strafen mithilfe missachten der Regeln.
+Mit Benutzung dieses Discord-Servers stimmst du automatischen den Regeln zu und akzeptierst ebendiese. Die Regeln gelten serverweit, dienen lediglich zur Erweiterung der allemal bestehenden Discord-Guidelines und Terms of Dienst. Des zusätzlichen können sämtliche Regeln zu jedem beliebigen Zeitpunkt, ohne Vorankündigung, durch @Tin, @SkypPlex oder ihre Discord-Moderatoren verändert werden. Unwissenheit schützt nicht vor Strafen mithilfe missachten der Regeln.
 
 
 ### § 6.2 Umgehung von Regeln die es noch nicht gibt
